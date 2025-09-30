@@ -1,0 +1,28 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# venv
+.venv/
+env/
+venv/
+
+# data/models/outputs
+data/
+models/
+outputs/
+*.ckpt
+*.pt
+*.bin
+
+# vscode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# credentials
+.env
